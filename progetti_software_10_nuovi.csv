@@ -1,0 +1,11 @@
+mS#id_progetto,D#linguaggio_principale,D#tipo_applicazione,C#dimensione_team,C#complessita,C#linee_codice_stimate,C#function_point_stimati,C#esperienza_media_team_anni,C#numero_integrazioni,C#riuso_codice_previsto_pct,C#automazione_test_prevista_pct,C#stabilita_requisiti,C#revisione_codice_prevista_pct
+SW-1001,TypeScript,Web,4,2,7900,170,5.5,2,25,65,4,75
+SW-1002,Java,Gestionale,8,4,32800,610,6.8,7,18,55,3,65
+SW-1003,Python,Analisi dati e AI,5,3,9400,235,7.2,4,15,70,3,80
+SW-1004,Kotlin,Mobile,4,3,10100,205,4.6,3,28,50,4,65
+SW-1005,Swift,Mobile,6,4,20300,390,6.1,5,20,60,3,75
+SW-1006,C++,Embedded e IoT,7,5,47100,570,8.4,6,12,45,2,85
+SW-1007,C#,Servizi backend e API,5,3,15600,330,5.7,6,30,80,4,85
+SW-1008,PHP,E-commerce,3,2,6800,145,4.3,4,40,35,3,50
+SW-1009,JavaScript,Web,2,1,3400,80,3.2,1,35,40,5,55
+SW-1010,Java,Gestionale,11,5,62900,1120,9.1,10,22,75,1,90
